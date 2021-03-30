@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xerscot
 - 👀 I’m interested in software development, cyber security and machine learning
-- 🌱 I’m currently learning Tensorflo, Azure and AWS
+- 🌱 I’m currently learning Tensorflow, Azure and AWS
 - 📫 How to reach me Twitter @xerscot
 
 <!---
